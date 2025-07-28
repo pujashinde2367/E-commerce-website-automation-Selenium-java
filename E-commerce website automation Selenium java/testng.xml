@@ -1,0 +1,7 @@
+<suite name="SauceDemo Suite">
+    <test name="SauceDemo Tests">
+        <classes>
+            <class name="SauceDemoTest"/>
+        </classes>
+    </test>
+</suite>
